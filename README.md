@@ -5,7 +5,9 @@ This repository contains the development and practices corresponding to the book
 
 # DBMS and Database
 The book use MySql and *sakila* database.
+
 For more information about the database see https://dev.mysql.com/doc/sakila/en/
-If you need use the sakila database for anothers DBMS SEE https://github.com/ozzymcduff/sakila-sample-database-ports
+
+If you need use the sakila database for anothers DBMS see https://github.com/ozzymcduff/sakila-sample-database-ports
 
 
